@@ -29,13 +29,6 @@ I'm **Rakesh Wagh**, a passionate **Software Engineer** with a knack for solving
 - RESTful APIs
 - Authentication & Authorization
 - Git & GitHub for Version Control
-
----
-
-## 📈 GitHub Stats
-![Abc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakeshwagh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshwagh&layout=compact&theme=radical)
-
 ---
 
 Thank you for visiting my profile! 😊 Feel free to reach out for collaboration or just to say hi!
